@@ -15,7 +15,7 @@ df = str(input())
 v = df.split(' ')
 df = int(v[1])
 
-# entrada hi, mi e si
+# entrada hf, mf e sf
 hf, mf, sf = map(int, input().split(' : '))
 
 # se segundos si e sf menor ou iguais
